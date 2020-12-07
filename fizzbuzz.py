@@ -14,4 +14,5 @@ for i in range(1, col+1):
     else:
         res.append (str(i))
 
+
 print(' '.join(res))

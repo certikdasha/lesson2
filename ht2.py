@@ -7,6 +7,7 @@ c = int(input('Введите с: '))
 # print ('a > b' if a > b else 'a =< b')
 
 
+
 if a > b and a > c:
     print ('a наибольшее!')
 elif b > a and b > c:
